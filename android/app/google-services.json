@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630411667719",
+    "project_id": "kabarnewsapp",
+    "storage_bucket": "kabarnewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630411667719:android:90cb87f7af3c362feebda2",
+        "android_client_info": {
+          "package_name": "com.mohanad.KaBarNewsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630411667719-9c0qom4f729o5mm07rgnnrq6ssg2sjvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohanad.KaBarNewsApp",
+            "certificate_hash": "40222fbc5dd3ab1ed15c5789b7f7a4177d06018a"
+          }
+        },
+        {
+          "client_id": "630411667719-dvn9cdu7ukjhg7r8i8a81uo7301gia58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKm4ytnn6-GobsM6iogu_EiHmG7TyeG0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630411667719-11bip6hpga9of02hdipugelkvoe8t2c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
